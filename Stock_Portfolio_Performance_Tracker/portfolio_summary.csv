@@ -1,0 +1,4 @@
+Generated_At,Ticker,Company,Buy_Price_USD,Shares,Current_Price_USD,Invested_USD,Market_Value_USD,Gain_Loss_USD,Gain_Loss_Percent
+2026-11-17T19:20:31+05:30,GOOG,Alphabet Inc. (Class C),230.00,3,281.26,690.00,843.78,153.78,22.29
+2026-11-17T19:20:31+05:30,ROP,Roper Technologies,5.00,2.8,483.72,14.00,1354.42,1340.42,9574.40
+2026-11-17T19:20:31+05:30,TOTAL,Portfolio Total,,,,704.00,2198.20,1494.20,212.24
